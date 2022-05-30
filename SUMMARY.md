@@ -9,8 +9,3 @@
 * [Modules](modules/README.md)
   * [Pauli](modules/pauli.md)
   * [General Functions](modules/general-functions.md)
-  * [Linear Algebra](modules/linear-algebra.md)
-* [Examples](examples/README.md)
-  * [Super Dense Coding](examples/super-dense-coding.md)
-* [Dummy Page Template](dummy-page-template.md)
-* [Dummy Function Template](dummy-function-template.md)
