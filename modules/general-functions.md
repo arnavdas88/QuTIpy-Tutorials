@@ -1,3 +1,7 @@
+---
+description: In Hilbert Space, nobody can hear you scream...
+---
+
 # General Functions
 
 ### Hilbert Space <a href="#firstheading" id="firstheading"></a>

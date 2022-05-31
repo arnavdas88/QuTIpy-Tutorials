@@ -9,3 +9,4 @@
 * [Modules](modules/README.md)
   * [Pauli](modules/pauli.md)
   * [General Functions](modules/general-functions.md)
+  * [States](modules/states.md)
